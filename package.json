@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/iwillbe12138/koa2_demo#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "koa": "^2.13.1",
-    "koa-bodyparser": "3"
+    "koa-bodyparser": "3",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^7.0.0"
   }
 }
